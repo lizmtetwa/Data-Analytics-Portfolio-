@@ -1,31 +1,44 @@
-📊 Data Analytics Portfolio – Elizabeth Chambwinja
+📊 Data Analytics Portfolio – Elizabeth Chambwinja 
 
-Welcome to my data analytics portfolio. This repository showcases projects I completed during and after my Data Analytics Bootcamp, demonstrating my ability to work with data to generate insights and support decision-making.
+Welcome! I’m Elizabeth Chambwinja, a data enthusiast passionate about turning raw data into actionable insights. This repository showcases my analytics projects demonstrating skills in Python, SQL, Tableau, Excel, and more.
 
 🔧 Tools & Technologies
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
+Python: Pandas, NumPy
 
-SQL
+Data Visualization: Matplotlib, Seaborn, Tableau
 
-Excel
+Database & Querying: SQL
 
-Tableau
+Reporting & Analysis: Excel, Jupyter Notebook
 
-Jupyter Notebook
+🌟 Projects Gallery
 
-📁 Projects
+Click the images or project names to explore the notebooks and dashboards!
 
-Each project folder includes:
+Project	Screenshot	Description	Tools	Link
 
-The dataset (where permitted)
+California Housing Analysis	
+	Explored housing trends & predicted prices using regression analysis	Python, Pandas, Matplotlib, Seaborn	View Project
 
-Jupyter notebooks or SQL queries    
+Sales Data Insights	
+	Analyzed sales trends & provided actionable recommendations	Python, SQL, Excel, Tableau	View Project
 
-Visualisations and dashboards
+Customer Behavior Analytics	
+	Identified customer patterns, churn risks & marketing opportunities	Python, SQL, Tableau	View Project
 
-A short project summary explaining objectives, methods, and insights
+Tip: Replace the placeholder images with screenshots of your charts, dashboards, or notebook outputs, and replace # with your actual project GitHub links.
 
-🚀 Goals
+🚀 Career Goals
 
-To continue building real-world analytics projects and grow into a Data Analyst role.
+Build real-world analytics projects that solve business problems
+
+Deliver data-driven solutions to support strategic decisions
+
+Grow into a Data Analyst role
+
+📬 Connect with Me
+
+Email: lizmtetwa@yahoo.co.uk
+
+LinkedIn: linkedin.com/in/elizabeth-chambwinja
