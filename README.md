@@ -12,11 +12,6 @@ Database & Querying: SQL
 
 Reporting & Analysis: Excel, Jupyter Notebook
 
-🌟 Projects Gallery
-
-Click the images or project names to explore the notebooks and dashboards!
-
-Project	Screenshot	Description	Tools	Link
 
 California Housing Analysis	
 	Explored housing trends & predicted prices using regression analysis	Python, Pandas, Matplotlib, Seaborn	View Project
@@ -27,7 +22,6 @@ Sales Data Insights
 Customer Behavior Analytics	
 	Identified customer patterns, churn risks & marketing opportunities	Python, SQL, Tableau	View Project
 
-Tip: Replace the placeholder images with screenshots of your charts, dashboards, or notebook outputs, and replace # with your actual project GitHub links.
 
 🚀 Career Goals
 
