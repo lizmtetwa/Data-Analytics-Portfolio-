@@ -36,3 +36,6 @@ Grow into a Data Analyst role
 Email: lizmtetwa@yahoo.co.uk
 
 LinkedIn: linkedin.com/in/elizabeth-chambwinja
+
+![Alt text](https://raw.githubusercontent.com/lizmtetwa/REPO-NAME/main/PATH/IMAGE.png
+
