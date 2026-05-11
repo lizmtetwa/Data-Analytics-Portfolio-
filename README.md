@@ -25,7 +25,7 @@ With a professional background as a **caseworker in adult social care**, I regul
 - Used Python (Pandas, Matplotlib, Seaborn)  
 - Explored relationships between location, income, and pricing trends  
 
-🔗 [View Project]
+🔗 [[View Project]](https://github.com/lizmtetwa/CALIFORNIA-HOUSING-PRICES-/commit/89f73874d3e7d1c28b1ed6623e28a4e8c7435641)
 
 ---
 
